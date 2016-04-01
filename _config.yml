@@ -48,15 +48,26 @@ background-img: "../img/seattle-blur.png"
 ##############################
 
 dynamic-typing: True
-shuffle: True # Shuffle the lines.
+shuffle: False # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Full-Stack Web Developer"
+  - text: "Family Man"
+  - text: "Seasoned Manager"
+  - text: "Javascript"
+  - text: "AngularJS"
+  - text: "PostgreSQL"
+  - text: "MongoDB"
+  - text: "Ruby on Rails"
+  - text: "NodeJS"
+  - text: "Git"
+  - text: "Apple Enthusiast"
+  - text: "Tech Addict"
+
 
 me-img: "/img/dn-round.png"
 
@@ -100,7 +111,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "dnuzum"
 
 syntax-highlight: True
 
@@ -142,8 +153,14 @@ author_blurb_image: "/img/dn-round.png"
 ##################
 
 social:
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/dnuzum"
   - title: "github"
     url: "https://github.com/dnuzum"
+  - title: "angellist"
+    url: "https://angel.co/dnuzum"
+  - title: "phone"
+    url: "tel:5095516358" 
   # - title: "rss"
   #   url: "/feed.xml"
 
@@ -151,7 +168,7 @@ social:
 # 404 page #
 ############
 
-404-img: "/img/labtocat.png"
+404-img: "/img/404.gif"
 
 ################################################################################
 
@@ -160,7 +177,9 @@ social:
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
+  # About: 'about'
+  Projects: 'projects'
+  Technologies: 'technologies'
   # Blog: 'latest-post'
   # Timeline: 'timeline'
   Contact: 'contact'

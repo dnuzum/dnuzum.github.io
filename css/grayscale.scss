@@ -231,6 +231,21 @@ a {
     }
 }
 
+.svg {
+    width: 64px;
+    height: auto;
+}
+
+.svg#node {
+    width: 100px;
+    height: auto;
+}
+
+.svg#angular {
+    width: 100px;
+    height: auto;
+}
+
 .content-section {
     margin-top: 100px;
     padding-top: 100px;
@@ -241,7 +256,7 @@ a {
     /* Added in { Personal } for responsive images in posts and section contents */
     img {
         display: block;
-        max-width: 100%;
+        max-width: 75%;
         height: auto;
         margin: 0 auto;
         border: 1px solid $font-color;
