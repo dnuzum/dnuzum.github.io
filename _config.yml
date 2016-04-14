@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/blink.ico"
 
-background-img: "../img/seattle-blur.png"
+background-img: "../img/seattle-blur-web.png"
 
 ##############################
 # Dynamic Text on the Header #
