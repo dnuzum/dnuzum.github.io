@@ -31,8 +31,8 @@ force-https: False
 lang: "en"
 author: "Derek Nuzum"
 title: "[ Derek Nuzum ]"
-description: "Personal website for Derek Nuzum - Full Stack Web Developer"
-keywords: "nuzum, derek, personal, web, developer, full-stack, seattle"
+description: "Personal website for Derek Nuzum - Web Developer"
+keywords: "nuzum, derek, personal, web, developer, full-stack, seattle, product, manager"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,9 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Full-Stack Web Developer"
+  - text: "Web Developer"
   - text: "Family Man"
-  - text: "Seasoned Manager"
+  - text: "Product Manager"
   - text: "Javascript"
   - text: "AngularJS"
   - text: "PostgreSQL"
@@ -67,6 +67,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Git"
   - text: "Apple Enthusiast"
   - text: "Tech Addict"
+  - text: "Seattle Sports Fan"
 
 
 me-img: "/img/dn-round.png"
@@ -145,7 +146,7 @@ email: "derek.nuzum@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Derek Nuzum is a Full-stack Web Developer. He lives in Seattle."
+author_blurb: "Derek Nuzum is a Web Developer. He lives in Seattle."
 author_blurb_image: "/img/dn-round.png"
 
 ##################
