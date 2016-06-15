@@ -1,0 +1,48 @@
+I hereby claim:
+
+  * I am an admin of http://www.dnuzum.com
+  * I am dnuzum (https://keybase.io/dnuzum) on keybase.
+  * I have a public key ASDGes3UDQrNd8ZSgbuklRQ8qbcueTeEovnMcrqNlr84two
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120c67acdd40d0acd77c65281bba495143ca9b72e793784a2f9cc72ba8d96bf38b70a",
+            "host": "keybase.io",
+            "kid": "0120c67acdd40d0acd77c65281bba495143ca9b72e793784a2f9cc72ba8d96bf38b70a",
+            "uid": "0fa375eae80e1c7c7412ba5113ee5019",
+            "username": "dnuzum"
+        },
+        "service": {
+            "hostname": "www.dnuzum.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1465967764,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1465967737,
+        "hash": "061303767fc752715d669b1d9851aabb5318289d6ef555080c3cce0ac15f46068f4cf94e30edac160b77f5492317be5554b8739f71af77310885c88ea3428bd1",
+        "seqno": 485454
+    },
+    "prev": "badce8c668f3ff078931ca632afaec1d1cf2f097886359c3fa476bab06618814",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxnrN1A0KzXfGUoG7pJUUPKm3Lnk3hKL5zHK6jZa/OLcKp3BheWxvYWTFAvN7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzY3YWNkZDQwZDBhY2Q3N2M2NTI4MWJiYTQ5NTE0M2NhOWI3MmU3OTM3ODRhMmY5Y2M3MmJhOGQ5NmJmMzhiNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzY3YWNkZDQwZDBhY2Q3N2M2NTI4MWJiYTQ5NTE0M2NhOWI3MmU3OTM3ODRhMmY5Y2M3MmJhOGQ5NmJmMzhiNzBhIiwidWlkIjoiMGZhMzc1ZWFlODBlMWM3Yzc0MTJiYTUxMTNlZTUwMTkiLCJ1c2VybmFtZSI6ImRudXp1bSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LmRudXp1bS5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE2In0sImN0aW1lIjoxNDY1OTY3NzY0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NjU5Njc3MzcsImhhc2giOiIwNjEzMDM3NjdmYzc1MjcxNWQ2NjliMWQ5ODUxYWFiYjUzMTgyODlkNmVmNTU1MDgwYzNjY2UwYWMxNWY0NjA2OGY0Y2Y5NGUzMGVkYWMxNjBiNzdmNTQ5MjMxN2JlNTU1NGI4NzM5ZjcxYWY3NzMxMDg4NWM4OGVhMzQyOGJkMSIsInNlcW5vIjo0ODU0NTR9LCJwcmV2IjoiYmFkY2U4YzY2OGYzZmYwNzg5MzFjYTYzMmFmYWVjMWQxY2YyZjA5Nzg4NjM1OWMzZmE0NzZiYWIwNjYxODgxNCIsInNlcW5vIjo3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQNH+XeSxWmegE8ajpAUYavY8UsnF+ypNKkV71iLqGTJ+s1UUrbLQLIgMbfFC8BmLom3hMyckM1PrdtN6yIbFwACoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dnuzum
