@@ -60,6 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Product Manager"
   - text: "Javascript"
   - text: "AngularJS"
+  - text: "Ionic"
   - text: "PostgreSQL"
   - text: "MongoDB"
   - text: "Ruby on Rails"
@@ -179,6 +180,7 @@ social:
 
 pages_list:
   About: 'about'
+  Work: 'work'
   Projects: 'projects'
   Technologies: 'technologies'
   # Blog: 'latest-post'
