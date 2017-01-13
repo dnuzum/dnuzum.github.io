@@ -161,8 +161,10 @@ social:
     url: "https://github.com/dnuzum"
   - title: "angellist"
     url: "https://angel.co/dnuzum"
+  - title: "twitter"
+    url: "https://twitter.com/dnuzum"
   - title: "phone"
-    url: "tel:5095516358" 
+    url: "tel:5095516358"
   # - title: "rss"
   #   url: "/feed.xml"
 
