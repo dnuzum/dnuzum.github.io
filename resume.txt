@@ -25,6 +25,9 @@ Management: Retail Category Management, Office Management, Administrative Suppor
 
 Projects
 
+Joe - Coffee Mobile Ordering http://joecoffeeapp.com/ :
+Joe puts local, specialty coffee into the palm of your hand. Joe is designed with ease-of-use in mind allowing users to quickly order their favorite drink during their commute without having to wait in line. Joe is quickly expanding to more Seattle area coffee shops and is available for Android and iOS. The consumer app is in Ionic and merchant site currently in Ember while we refactor into a React Native app. I work as a developer for the small team contributing to bug fixes, design, and (re)building functionality as needed.
+
 Beervana http://drinkbeervana.herokuapp.com/ :
 Final project for General Assembly completed with one other developer in five days. This project was completed with the MEAN stack out of a passion for homebrewing and beer. Utilizing the BreweryDB, users are able to find beers and breweries. In the near future, we aim to incorporate a database for users to upload homebrew recipes and share with other users. For this project I focused on the back-end while serving as the Git Master while my partner focused on the front-end and specialty animations. 
 
@@ -45,7 +48,7 @@ Employment
 Coffee Ventures, LLC - Web Developer
 Seattle, WA - Aug 2016-Present
 
-Developer for Consumer and Merchant apps in Ionic
+Developer for mobile and merchant applications for Joe Mobile Ordering with Ionic and React Native. Joe Mobile Ordering brings on-the-go ordering to specialty coffee shops and their consumers allowing an easy entrance to the mobile ordering space for all parties. http://joecoffeeapp.com/
 
 General Assembly - Web Development Immersive Student
 Seattle, WA - Jan 2016-Apr 2016
