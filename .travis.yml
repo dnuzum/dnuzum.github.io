@@ -2,7 +2,10 @@ language: ruby
 rvm:
 - 2.1
 
-install: gem install jekyll jekyll-paginate jemoji html-proofer
+install: gem install jekyll jekyll-paginate jemoji html-proofer jekyll-cloudinary 
+group :jekyll_plugins do
+  gem 'jekyll-cloudinary'
+end
 script: jekyll serve --baseurl "" --detach && htmlproofer ./_site --disable-external --empty-alt-ignore
 
 env:
