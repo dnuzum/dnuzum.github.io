@@ -202,7 +202,7 @@ exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
 sass:
   style: compressed
 
-gems:
+plugins:
   - jekyll-paginate
   - jemoji
   - jekyll-cloudinary
