@@ -1,0 +1,12 @@
+image: ruby:2.1
+
+pages:
+  script:
+  - gem install jekyll jekyll-paginate jemoji html-proofer jekyll-cloudinary
+  - jekyll build -d public/
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
+  - cloudinary
