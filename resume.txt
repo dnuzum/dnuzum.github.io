@@ -1,16 +1,16 @@
 Derek Nuzum
-Web Developer | Product Manager
+Product Manager
 derek.nuzum@gmail.com
 509-551-6358
 Seattle, WA
 
-Portfolio: http://www.dnuzum.com
+Portfolio: https://www.dnuzum.com
 LinkedIn: https://www.linkedin.com/in/dnuzum
 GitHub: https://github.com/dnuzum
 
 Summary
 
-I'm a Seattle-based Web Developer with passions for emerging tech, business management and sports. As a former retail manager I have leadership and business management skills that enable me to be be a leader and team player. I have proven capable in implementing rapid changes with success and flexibility. When I'm not at my desk you can find me spending time with wife and our two sons ages 5 and 1!
+I'm a Seattle-based Web Developer with passions for emerging tech, business management and sports. As a former retail manager I have leadership and business management skills that enable me to be be a leader and team player. I have proven capable in implementing rapid changes with success and flexibility. When I'm not at my desk you can find me spending time with wife and our two sons ages 6 and 2!
 
 Skills
 Languages: HTML5, Javascript, CSS3, Ruby
@@ -45,40 +45,50 @@ Project 1 for General Assembly. Purely done in HTML, CSS, vanilla Javascript, an
 
 Employment
 
+Plugable Technologies - Product Owner, Lead
+Redmond, WA - Apr 2019 - Present
+
+Oversee and manage a team of Product Owners including product lifecycle from sourcing, testing, channel launch and management, and end user experience. Specializing in process creation and improvement, Amazon brand and listings management including Brand Registry and case escalations, interfacing with PR agency for brand/product awareness, and company best practices for customer support and product management.
+
+Plugable Technologies - Product Owner
+Redmond, WA - Nov 2017 - Apr 2019
+
+Develop and support electronics peripherals including docking stations, networking, audio, graphics adapters, USB and Thunderbolt 3 connections, Bluetooth, and more from vendor management, Amazon channel listing management, and product lifecycle including end user experience. Specialized in leading initiatives for Python 2 to 3 conversion planning and new Website platforms and technologies.
+
 Coffee Ventures, LLC - Web Developer
-Seattle, WA - Aug 2016-Present
+Seattle, WA - Aug 2016 - Aug 2018
 
 Developer for mobile and merchant applications for Joe Mobile Ordering with Ionic and React Native. Joe Mobile Ordering brings on-the-go ordering to specialty coffee shops and their consumers allowing an easy entrance to the mobile ordering space for all parties. http://joecoffeeapp.com/
 
 General Assembly - Web Development Immersive Student
-Seattle, WA - Jan 2016-Apr 2016
+Seattle, WA - Jan 2016 - Apr 2016
 
 12 week full-time immersive course (500+ hours) focusing on Full Stack web development including HTML, CSS, Javascript, Node, databases including Postgres and Mongo, Ruby on Rails, React, and Angular. Included full app deployment, testing, and presentation.
 
 Fred Meyer - Home Electronics Manager
-Seattle, WA - Jul 2011-Jan 2016
+Seattle, WA - Jul 2011 - Jan 2016
 
 Starting as a part-time clerk and moving up into management having provided Customer 1st experience. Maintained department merchandising standards, adapting to changes in sales opportunities, and handling all aspects of management including personnel, scheduling, inventory, financials, and training. Supported Store Director and Human Resources Manager in all aspects of store procedures and personnel management along with monthly store checklist and budget prep/review.
 
 Whitworth University - Chapel Student Assistant
-Spokane, WA - Sep 2008-May 2010
+Spokane, WA - Sep 2008 - May 2010
 
 Front-facing administrative assistant to Chapel Program Director. Facilitated project completion and adherence to budget documentation standards. Assisted with events management for Chaplain Services and academic programs. Perform work as required for department.
 
 Whitworth University - Summer Conference Assistant
-Spokane, WA - May 2009-Aug 2009
+Spokane, WA - May 2009 - Aug 2009
 
 Summer contract involving full events management from client collaboration to coordination of campus facilities and departments involving janitorial, landscaping, security, and guest and food services. These conferences ranged in sizes from 50 participants to 1000 participants all requiring some type of guest lodging services. Detailed and extensive billing was initially agreed upon and finalized with clients and revised line-by-line for any on-the-fly changes.
 
 Malley's Pharmacy - Pharmacy Assistant
-Richland, WA - Mar 2006-Jul 2007
+Richland, WA - Mar 2006 - Jul 2007
 
 Front-facing customer service representative for pharmacy and US Post Office substation. Assist with prescription filling and sales through Point-Of-Sale along with filing hard copies of prescriptions. Sort through deliveries of prescription, non-prescription, and Post Office products. Manage and order stock for Post Office and pharmacy non-drug related necessities.
 
 Education
 
 Whitworth University
-B.A Political Science Sep 2007-May 2011
+B.A Political Science Sep 2007 - May 2011
 
 General Assembly
-Web Development Immersive Certificate Jan 2016-Apr 2016
+Web Development Immersive Certificate Jan 2016 - Apr 2016
