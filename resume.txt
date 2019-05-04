@@ -23,26 +23,6 @@ Various Programming: Git, GitHub, BitBucket, PostgreSQL, Heroku, Sequelize, JSON
 
 Management: Retail Category Management, Office Management, Administrative Support, Associate Engagement and Development, Customer Experience and Retention, Data Invoicing, Sales, Billing, and Invoicing, Conference and Event Management, Microsoft Office, Budget and EBITDA, Scheduling and Action Plans, Fundraising
 
-Projects
-
-Joe - Coffee Mobile Ordering http://joecoffeeapp.com/ :
-Joe puts local, specialty coffee into the palm of your hand. Joe is designed with ease-of-use in mind allowing users to quickly order their favorite drink during their commute without having to wait in line. Joe is quickly expanding to more Seattle area coffee shops and is available for Android and iOS. The consumer app is in Ionic and merchant site currently in Ember while we refactor into a React Native app. I work as a developer for the small team contributing to bug fixes, design, and (re)building functionality as needed.
-
-Beervana http://drinkbeervana.herokuapp.com/ :
-Final project for General Assembly completed with one other developer in five days. This project was completed with the MEAN stack out of a passion for homebrewing and beer. Utilizing the BreweryDB, users are able to find beers and breweries. In the near future, we aim to incorporate a database for users to upload homebrew recipes and share with other users. For this project I focused on the back-end while serving as the Git Master while my partner focused on the front-end and specialty animations.
-
-Contigo http://contigo.herokuapp.com/ :
-Project 3 (group project) for General Assembly. Build with Ruby on Rails, ActiveMailer with MailGun, PostgreSQL, OmniAuth with Facebook, and APIs including Google Maps, Uber, Lyft, and Facebook. For this project I served as Project Manager, Git Master, and focused on the backend with Google Maps and Mailers.
-
-Festorama http://festorama.herokuapp.com/ :
-One-day hackathon with AngularJS for GA. Was a sprint from start to finish, but our team ended up winning the best designed award and ended up implementing a lot of functionality in a short amount of time. We didn't get everything done that we wanted in a short amount of time, but we had fun!
-
-S(t)uds Up http://sudsup.herokuapp.com/ :
-Project 2 for General Assembly. Designed to bring novices and experts together through The Beautiful Game of Soccer along with a beer or two. Created with Node, ExpressJS, Postgres, Bcrypt, and the Google API.
-
-Seattle Blackjack http://dnuzum.github.io/Project-1---Blackjack/ :
-Project 1 for General Assembly. Purely done in HTML, CSS, vanilla Javascript, and jQuery.
-
 Employment
 
 Plugable Technologies - Product Owner, Lead
@@ -92,3 +72,23 @@ B.A Political Science Sep 2007 - May 2011
 
 General Assembly
 Web Development Immersive Certificate Jan 2016 - Apr 2016
+
+Projects
+
+Joe - Coffee Mobile Ordering http://joecoffeeapp.com/ :
+Joe puts local, specialty coffee into the palm of your hand. Joe is designed with ease-of-use in mind allowing users to quickly order their favorite drink during their commute without having to wait in line. Joe is quickly expanding to more Seattle area coffee shops and is available for Android and iOS. The consumer app is in Ionic and merchant site currently in Ember while we refactor into a React Native app. I work as a developer for the small team contributing to bug fixes, design, and (re)building functionality as needed.
+
+Beervana http://drinkbeervana.herokuapp.com/ :
+Final project for General Assembly completed with one other developer in five days. This project was completed with the MEAN stack out of a passion for homebrewing and beer. Utilizing the BreweryDB, users are able to find beers and breweries. In the near future, we aim to incorporate a database for users to upload homebrew recipes and share with other users. For this project I focused on the back-end while serving as the Git Master while my partner focused on the front-end and specialty animations.
+
+Contigo http://contigo.herokuapp.com/ :
+Project 3 (group project) for General Assembly. Build with Ruby on Rails, ActiveMailer with MailGun, PostgreSQL, OmniAuth with Facebook, and APIs including Google Maps, Uber, Lyft, and Facebook. For this project I served as Project Manager, Git Master, and focused on the backend with Google Maps and Mailers.
+
+Festorama http://festorama.herokuapp.com/ :
+One-day hackathon with AngularJS for GA. Was a sprint from start to finish, but our team ended up winning the best designed award and ended up implementing a lot of functionality in a short amount of time. We didn't get everything done that we wanted in a short amount of time, but we had fun!
+
+S(t)uds Up http://sudsup.herokuapp.com/ :
+Project 2 for General Assembly. Designed to bring novices and experts together through The Beautiful Game of Soccer along with a beer or two. Created with Node, ExpressJS, Postgres, Bcrypt, and the Google API.
+
+Seattle Blackjack http://dnuzum.github.io/Project-1---Blackjack/ :
+Project 1 for General Assembly. Purely done in HTML, CSS, vanilla Javascript, and jQuery.
