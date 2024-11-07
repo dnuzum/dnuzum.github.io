@@ -55,9 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Web Developer"
-  - text: "Family Man"
-  - text: "Product Manager"
+  - text: "IT Manager"
+  - text: "Project Manager"
+  - text: "Product Owner"
   - text: "Javascript"
   - text: "AngularJS"
   - text: "Ionic"
